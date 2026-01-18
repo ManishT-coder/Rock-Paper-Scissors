@@ -1,31 +1,33 @@
-# ✊✋✌️ Rock Paper Scissors Game
+# ✊ ✋ ✌️ Rock Paper Scissors Game
 
-A fun, interactive, and responsive web-based version of the classic "Rock Paper Scissors" game. Built with clean code and a modern UI.
+A classic, interactive, and fully responsive "Rock Paper Scissors" game built for the web. Challenge the computer and see if you can reach the highest score!
 
 ## 🚀 Live Demo
-[**Click here to Play the Game**](https://manisht-coder.github.com/Rock-Paper-Scissors/) 
-*(Note: Replace with your actual GitHub Pages link)*
+You can play the game live here:  
+👉 [**Play Rock-Paper-Scissors**](https://manisht-coder.github.io/Rock-Paper-Scissors/)
 
 ---
 
 ## 🎮 How to Play
-1. Open the website.
-2. Select your move: **Rock**, **Paper**, or **Scissors**.
-3. The computer will randomly pick its move.
-4. See the result (Win/Loss/Draw) and track your score!
+1. **Choose your move:** Click on the Rock, Paper, or Scissors icon.
+2. **Computer's Turn:** The computer will instantly make a random move.
+3. **Winner Selection:** The game compares the choices and declares a **Win**, **Loss**, or **Draw**.
+4. **Scoreboard:** The score updates automatically so you can track your progress.
 
 ## ✨ Features
-- **Real-time Scoring:** Keep track of your wins vs the computer.
-- **Interactive UI:** Smooth hover effects and button animations.
-- **Fully Responsive:** Works perfectly on mobile, tablet, and desktop.
-- **Game Logic:** Intelligent randomized computer moves.
+- **Modern UI:** Clean and attractive design using CSS Flexbox.
+- **Score Tracking:** Real-time score updates for both the player and the computer.
+- **Responsive Design:** Play on any device—mobile, tablet, or desktop.
+- **Instant Results:** Dynamic text feedback for every round played.
 
 ## 🛠️ Built With
-- **HTML5:** For the structure of the game.
-- **CSS3:** For modern styling and layout (Flexbox).
-- **JavaScript:** For the game logic and state management.
+- **HTML5:** Semantic structure for game elements.
+- **CSS3:** Custom styling, hover effects, and layout.
+- **JavaScript (ES6):** Game logic, event listeners, and DOM manipulation.
 
 ## 📥 How to Run Locally
+If you want to view the code or modify it on your own computer:
+
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ManishT-coder/YOUR_REPO_NAME.git
+   git clone https://github.com/ManishT-coder/Rock-Paper-Scissors.git
