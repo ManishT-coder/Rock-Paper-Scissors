@@ -3,7 +3,7 @@
 A fun, interactive, and responsive web-based version of the classic "Rock Paper Scissors" game. Built with clean code and a modern UI.
 
 ## 🚀 Live Demo
-[**Click here to Play the Game**](https://manisht-coder.github.io/Rock-Paper-Scissors/) 
+[**Click here to Play the Game**](https://manisht-coder.github.com/Rock-Paper-Scissors/) 
 *(Note: Replace with your actual GitHub Pages link)*
 
 ---
